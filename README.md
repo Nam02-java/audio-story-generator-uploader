@@ -27,6 +27,8 @@ Tiếp tục quy trình với các chương tiếp theo.
 
 Với ảnh thumbnail trên Canva, nếu chưa sẵn có → hệ thống chờ người dùng bổ sung và xác nhận mới tiếp tục.
 
+Youtube Channel link : https://www.youtube.com/@truongthanhnam2210
+
 🇺🇸 Project Description (English)
 Automated Audio Story-to-Video System with YouTube Uploader
 
@@ -55,3 +57,6 @@ Upload the final video to YouTube via YouTube Data API v3.
 Continue this loop with remaining chapters.
 
 For thumbnails from Canva: if not yet available, the system waits for user confirmation before proceeding.
+
+Youtube Channel link : https://www.youtube.com/@truongthanhnam2210
+
